@@ -33,14 +33,13 @@
       padding-left: 15px;
       margin-top: 0%;
   }
- .main{
-     padding: 40px 0;
- }
+.main{
+  padding: 20px;
+}
  .navcon {
-   margin:0;
-   padding:0 10px;
+   margin:20px 0;
    display:flex ;
-   justify-content:space-between;
+   justify-content:space-evenly;
  }  
 .navconli{
   
@@ -48,11 +47,21 @@
   width: 150px;
   text-align: center;
   border: 1px solid black;
-  margin: 45px 45px 45px 45px;
+  margin: 0;
 }
 .navconli{
   border-style: solid;
   border-width: thin;
   background-color:#fff;
+}
+  
+.graph{
+  border: 1px solid black;
+  margin: 0;
+  border-style: solid;
+  border-width: thin;
+  background-color:#fff;
+  padding: 100px;
+
 }
 
