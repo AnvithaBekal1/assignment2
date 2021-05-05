@@ -1,6 +1,7 @@
  body{
     background-color: cfd8dd;
     font-family: sans-serif;
+    max-width: 1600px;
 }
 .sidenav {
     height: 100%; /* Full-height: remove this if you want "auto" height */
@@ -80,7 +81,7 @@ border-radius: 8px;
   background-color:#fff;
   width: 300px;
 height:300px;
-align-content: center;
+align-content:center;
 padding:0 20px;
 box-shadow: 2px 2px #f5f5f5;
 border-radius: 8px;
@@ -123,7 +124,7 @@ border-radius: 8px;
   border:ipx solid #f5f5f5;
   background-color:#fff;
   width:28%;
-  height:400px;
+  height:300px;
   align-content: center;
   padding: 0 20px;
   box-shadow: 2px 2px #f5f5f5;
@@ -135,7 +136,7 @@ border-radius: 8px;
   border:ipx solid #f5f5f5;
   background-color:#fff;
   width:28%;
-  height:400px;
+  height:300px;
   align-content: center;
   padding: 0 20px;
   box-shadow: 2px 2px #f5f5f5;
@@ -147,11 +148,14 @@ border-radius: 8px;
   border:ipx solid #f5f5f5;
   background-color:#fff;
   width:28%;
-  height:400px;
+  height:300px;
   align-content: center;
   padding: 0 20px;
   box-shadow: 2px 2px #f5f5f5;
   border-radius: 8px;
+}
+.income img{
+  padding:0 40px;
 }
 .footer{
   text-align: left;
