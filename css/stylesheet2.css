@@ -24,10 +24,10 @@
   }
   
   .sidenav a:hover{
-    color:blue;
+    color:#2E3192;
   }
   .sidenav h4{
-      color:blue;
+      color: #2E3192;
       padding-left: 15px;
       margin-top: 0%;
       margin-right:20px;
@@ -37,6 +37,93 @@
     justify-content: space-between;
     padding: 0 10px;
     margin-right:20px;
+  }
+  .sidebar{
+    display: flex;
+    justify-content:flex-start;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+  }
+  .dashboard{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    padding: 0 20px;
+    margin-left:0;
+  }
+  .email{
+    display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  padding: 0 20px;
+  margin-left:0;
+  }
+  .uikits{
+    display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  padding: 0 20px;
+  margin-left:0;
+  }
+  .layout{
+    display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  padding: 0 20px;
+  margin-left:0;
+  }
+  .forms{
+    display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  padding: 0 20px;
+  margin-left:0;
+  }
+  .tables{
+    display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  padding: 0 20px;
+  margin-left:0;
+  }
+  .charts{
+    display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  padding: 0 20px;
+  margin-left:0;
+  }
+  .maps{
+    display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  padding: 0 20px;
+  margin-left:0;
+  }
+  .extra{
+    display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  padding: 0 20px;
+  margin-left:0;
+  }
+  .documentation{
+    display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  padding: 0 20px;
+  margin-left:0;
+  }
+  .changelog{
+    display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  padding: 0 20px;
+  margin-left:0;
+  }
+  .hr{
+    color:1px solid black;
   }
 .main{
   padding:20px;
